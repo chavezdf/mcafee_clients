@@ -35,23 +35,25 @@ These scripts are used to Install, Uninstall and Update McAfee EPO and VSE clien
 4. A information splash screen should display in a command shell.
 5. Hit any key to continue
 6. The Top level Selection menu should display with several options.
-  * [1] Install McAfee Clients
-  * [2] Reinstall McAfee Clients
-  * [3] Uninstall McAfee Clients
-  * [4] Install EPO Agent
-  * [5] Reinstall EPO Agent
-  * [6] Uninstall EPO Agent
-  * [7] Install VSE Client
-  * [8] Reinstall VSE Client
-  * [9] Uninstall VSE Client
-  * [10] Update EPO
-  * [11] Update VSE
-  * [12] Show EPO Monitor
-  * [13] Show Access Protection Log
-  * [14] Show On-Access Log
-  * [15] Show On-Demand Log
-  * [R] Return to Splash Screen
-  * [X] Exit
+```
+[1] Install McAfee Clients
+[2] Reinstall McAfee Clients
+[3] Uninstall McAfee Clients
+[4] Install EPO Agent
+[5] Reinstall EPO Agent
+[6] Uninstall EPO Agent
+[7] Install VSE Client
+[8] Reinstall VSE Client
+[9] Uninstall VSE Client
+[10] Update EPO
+[11] Update VSE
+[12] Show EPO Monitor
+[13] Show Access Protection Log
+[14] Show On-Access Log
+[15] Show On-Demand Log
+[R] Return to Splash Screen
+[X] Exit
+```
 7. Enter the number or letter for your selection and push enter
 
 ---
